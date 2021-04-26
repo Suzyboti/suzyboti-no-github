@@ -1,0 +1,83 @@
+body{
+    background-color: darkorange;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif 
+}
+#cabecalho{
+    color: darkorange;
+    border: black 1px solid;
+    border-radius: 10px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    box-shadow:darkorange 5px 5xp 10xp;
+}
+#conteudo{
+    background-color: white;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 2%;
+}
+a{
+    font-family:cursive;
+    color: blue;
+    text-decoration: unset;
+}
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+#TituloDestaque{
+    font-family:cursive;
+    display: flex;
+    justify-content: center;
+    text-shadow:darkorange 1px 1px 5px;
+}
+#Produtos{
+    display:flex;
+    justify-content:space-between;
+}
+.PromdutosDestaque{
+    border: darkorange 1px solid;
+    margin-left: 10px;
+    margin-right: 10px;
+    box-shadow: darkorange 2px 2px 3px;
+}
+.ImagProduto{
+    width: 40%;
+    margin-left: 20%;
+    margin-bottom: 10px;
+}
+h3{
+    text-align: center;
+    font-size: 20px;
+}
+.descDestaque{
+    font-family: cursive;
+    margin-left: 10px;
+    margin-right: 10px;
+    text-align: justify;
+}
+#rodape{
+    display: flex;
+    justify-content: space-between;
+    background:orangered;
+    margin-top: 30px;
+}
+#RedesSociais{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+#receba{
+    font-family: cursive;
+    font-size: 15px;
+    color: white;
+}
+#imgcontato{
+    color: white;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#email{
+    margin-right: 50px;
+}
+
